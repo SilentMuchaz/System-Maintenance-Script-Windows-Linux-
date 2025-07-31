@@ -19,9 +19,6 @@ This script performs the following tasks:
 5. **Logging**  
    - Logs all output and actions to `maintenance_log.txt` for audit or review.
 
-## 📁 File Structure
-
-
 ---
 
 ## 🖥️ Requirements
