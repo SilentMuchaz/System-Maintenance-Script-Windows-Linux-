@@ -1,0 +1,118 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250731111739
+Username: DESKTOP-L6KUN9D\Muchaz
+RunAs User: DESKTOP-L6KUN9D\Muchaz
+Configuration Name: 
+Machine: DESKTOP-L6KUN9D (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 11284
+PSVersion: 5.1.26100.4484
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.4484
+BuildVersion: 10.0.26100.4484
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\Muchaz\Documents\projects\script\maintenance_log.txt
+ðŸ§¹ Starting System Cleanup...
+Clearing temp files...
+Flushing DNS cache...
+
+Windows IP Configuration
+
+Successfully flushed the DNS Resolver Cache.
+Restarting network adapter...
+Updating installed software using winget...
+  - Packages
+      Microsoft.UI.Xaml.2.8 [>= 8.2306.22001.0]
+(1/9) Found Adobe Acrobat Reader (64-bit) [Adobe.Acrobat.Reader.64-bit] Version 25.001.20577
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120577/AcroRdrDCx642500120577_MUI.exe
+  ██████████████████████████████   700 MB /  700 MB
+Successfully verified installer hash
+Starting package install...
+Successfully installed
+
+(2/9) Found Google Chrome (EXE) [Google.Chrome.EXE] Version 138.0.7204.184
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://dl.google.com/release2/chrome/h5cbgnnhhw2lr35rflchltnqcm_138.0.7204.184/138.0.7204.184_chrome_installer_uncompressed.exe
+  ██████████████████████████████   403 MB /  403 MB
+Successfully verified installer hash
+Starting package install...
+Successfully installed
+
+(3/9) Found PyCharm Professional Edition [JetBrains.PyCharm.Professional] Version 2024.3.5
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download.jetbrains.com/python/pycharm-professional-2024.3.5.exe
+  ██████████████████████████████   836 MB /  836 MB
+Successfully verified installer hash
+Starting package uninstall...
+Successfully uninstalled
+Starting package install...
+Successfully installed
+
+(4/9) Found Wireshark [WiresharkFoundation.Wireshark] Version 4.4.8
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.8-x64.exe
+  ██████████████████████████████  83.3 MB / 83.3 MB
+Successfully verified installer hash
+Starting package install...
+Successfully installed
+
+(5/9) Found Microsoft Visual C++ 2015-2022 Redistributable (x64) [Microsoft.VCRedist.2015+.x64] Version 14.44.35211.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download.visualstudio.microsoft.com/download/pr/73aabf2e-9532-4f68-99f7-3247081a619c/CC0FF0EB1DC3F5188AE6300FAEF32BF5BEEBA4BDD6E8E445A9184072096B713B/VC
+_redist.x64.exe
+  ██████████████████████████████  24.4 MB / 24.4 MB
+Successfully verified installer hash
+Starting package install...
+Successfully installed
+
+(6/9) Found Microsoft Visual C++ 2015-2022 Redistributable (x86) [Microsoft.VCRedist.2015+.x86] Version 14.44.35211.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download.visualstudio.microsoft.com/download/pr/73aabf2e-9532-4f68-99f7-3247081a619c/0C09F2611660441084CE0DF425C51C11E147E6447963C3690F97E0B25C55ED64/VC
+_redist.x86.exe
+  ██████████████████████████████  13.3 MB / 13.3 MB
+Successfully verified installer hash
+Starting package install...
+Successfully installed
+
+(7/9) Found Telegram Desktop [Telegram.TelegramDesktop] Version 5.16.6
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://td.telegram.org/tx64/tsetup-x64.5.16.6.exe
+  ██████████████████████████████  46.4 MB / 46.4 MB
+Successfully verified installer hash
+Starting package install...
+Successfully installed
+
+(8/9) Found Microsoft Visual Studio Code [Microsoft.VisualStudioCode] Version 1.102.3
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://vscode.download.prss.microsoft.com/dbazure/download/stable/488a1f239235055e34e673291fb8d8c810886f81/VSCodeUserSetup-x64-1.102.3.exe
+  ██████████████████████████████   106 MB /  106 MB
+Successfully verified installer hash
+Starting package install...
+Successfully installed
+
+(9/9) Found Windows Terminal [Microsoft.WindowsTerminal] Version 1.22.11751.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+  ██████████████████████████████  100%
+Successfully installed
+âœ… Cleanup Complete.
+**********************
+Windows PowerShell transcript end
+End time: 20250731113359
+**********************
