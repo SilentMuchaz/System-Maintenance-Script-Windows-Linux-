@@ -1,0 +1,39 @@
+WINDOWS MAINTENANCE RUN - SANITIZED TRANSCRIPT EXCERPT
+Run date: 2025-07-31
+Start: 11:17:39   End: 11:33:59   Elapsed: 00:16:20
+PowerShell version: 5.1 (as recorded in original transcript)
+
+NOTE: This is a privacy-redacted, condensed excerpt of the supplied execution
+transcript. It is not an unmodified console log. User, host, local path and
+installer download URLs have been omitted. No test was rerun for this report.
+
+Recorded maintenance steps:
+  Starting System Cleanup...
+  Clearing temp files...
+  Flushing DNS cache...
+  Windows IP Configuration
+  Successfully flushed the DNS Resolver Cache.
+  Restarting network adapter...
+  Updating installed software using winget...
+
+Recorded winget outcomes:
+  (1/9) Adobe Acrobat Reader (64-bit) [Adobe.Acrobat.Reader.64-bit] - Installed successfully
+  (2/9) Google Chrome (EXE) [Google.Chrome.EXE] - Installed successfully
+  (3/9) PyCharm Professional Edition [JetBrains.PyCharm.Professional] - Installed successfully
+  (4/9) Wireshark [WiresharkFoundation.Wireshark] - Installed successfully
+  (5/9) Microsoft Visual C++ 2015-2022 Redistributable (x64) [Microsoft.VCRedist.2015+.x64] - Installed successfully
+  (6/9) Microsoft Visual C++ 2015-2022 Redistributable (x86) [Microsoft.VCRedist.2015+.x86] - Installed successfully
+  (7/9) Telegram Desktop [Telegram.TelegramDesktop] - Installed successfully
+  (8/9) Microsoft Visual Studio Code [Microsoft.VisualStudioCode] - Installed successfully
+  (9/9) Windows Terminal [Microsoft.WindowsTerminal] - Installed successfully
+
+  Cleanup Complete.
+  Windows PowerShell transcript end.
+
+EVIDENCE INTERPRETATION:
+- DNS cache flush: confirmed by explicit success message.
+- Nine package installations/upgrades: each has a "Successfully installed" line.
+- Temporary file deletion: action attempted; no deletion counts or error summary.
+- Adapter restart: action attempted; no independent adapter state verification.
+- The final completion message is unconditional in the original script; it is
+  not a comprehensive success check.
