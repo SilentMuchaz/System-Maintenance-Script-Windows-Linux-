@@ -63,6 +63,5 @@ A future validation run could capture before/after temporary-file counts, adapte
 ## Evidence artifacts
 
 - [Original implementation](SystemCleanup.ps1)
-- [Sanitized transcript excerpt](evidence/maintenance-run-sanitized.txt)
 - [Package outcome table](evidence/upgrade-results.csv)
 - [Optional reviewed variant (not tested)](SystemCleanup-Reviewed.ps1)
