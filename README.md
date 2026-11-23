@@ -43,7 +43,7 @@ The key results above are drawn from the captured execution transcript, not esti
 
 - [Sanitized maintenance run excerpt](evidence/maintenance-run-sanitized.txt)
 - [Nine package outcomes (CSV)](evidence/upgrade-results.csv)
-- [Technical case study](System-Maintenance-Case-Study.md) · [PDF report](reports/01-windows-maintenance-case-study.pdf)
+- [Technical case study](System-Maintenance-Case-Study.md) · [PDF report](01-windows-maintenance-case-study.pdf)
 - [Execution screenshot from the original project (external link)](https://imgur.com/9oXkrZx.png)
 
 ```text
